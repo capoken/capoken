@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me N/A
-- 😄 Pronouns: He/They  
+- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: ChickenButt
 
 <!---
